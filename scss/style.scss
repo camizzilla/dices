@@ -2,6 +2,11 @@ body {
   text-align: center;
   font-family: Helvetica, sans-serif;
 }
+
+#container {
+  display: flex;
+}
+
 .dice {
   font-size: 320px;
 }
@@ -33,3 +38,4 @@ body {
     color: black;
     border: 2px solid #4CAF50; /* Green */
 }
+
